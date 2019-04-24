@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/androidplugin/build/intermediates/res/merged/release/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/androidplugin/src/main/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endColumns": "88",
+                        "endOffsets": "139"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "91",
+                        "endOffsets": "142"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/androidplugin/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/androidplugin/src/main/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endColumns": "88",
+                        "endOffsets": "139"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "91",
+                        "endOffsets": "142"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Wed Apr 24 11:56:13 CST 2019
+base.0=/Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

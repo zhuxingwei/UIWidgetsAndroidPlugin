@@ -1,0 +1,2 @@
+com.unity.uiwidgets.androidplugin
+style UIWidgetsTheme

@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/505b07de5bf266f810f4c18fc771adfe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/43dbb3bb6afb4808c47782a21f39709e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2e9a53a3287eb00e7bac517fc174cda/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3d971145b13fb72ed0c48991197fa759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7121cf8fec213394a95af9a8e1883e07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/628d4b83ac48c35db8d6f54c45bf453b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c60d8e8841e2477139aac2f5ea7d9d82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff9bd78e51cc455e7975a8700c9e0cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a9bf8c1479a87b17240712b66cb89ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/505805ad03cdf4b37a8d9503dd6b65d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7902f1965689622a1c8edd0f1c259ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1cbf6ffc3993c012dda964981fca4c5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/13ee18de07220904d2d8480f2635165e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e300cbcbf9fcf507b00b1d5e16c17ec5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d11d74c0b58cd8a14fa2f41a14f0cb2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ee9476276fb80a2a9c24d1e6955802b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6f5b2e00748c4d2e68ac4b331811134a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e4b5f24e1a23fa62020b6603dded8216/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3462d24e27d730dbf3e528b19831bc70/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cbda81f1eabd07563f83bb37dbb0515f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e48b2e1640ca97405bfa9d178c47c6c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/152d5624e81e578eea3912e32ee82968/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/226e233b94e82e890030f609f8a248f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b86d2bd4e5465a1f5427276a0c18bb92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cce4df69b4cd4430e39ecbf97d4dcc72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4067dea60aa6ca1d61c1b75175b9f609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea987b0edff69251a986ed3b79d2b422/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cac691034aff32edb248dfe490db9118/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7476d5a653aa54e3151c4a61ee8311e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d5174675ae7813342bc9f1562b67812a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/505b07de5bf266f810f4c18fc771adfe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/505b07de5bf266f810f4c18fc771adfe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2e9a53a3287eb00e7bac517fc174cda/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2e9a53a3287eb00e7bac517fc174cda/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3462d24e27d730dbf3e528b19831bc70/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3462d24e27d730dbf3e528b19831bc70/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.unity.uiwidgets.uiwidgetsplugin.MainActivity
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/505b07de5bf266f810f4c18fc771adfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/505b07de5bf266f810f4c18fc771adfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/43dbb3bb6afb4808c47782a21f39709e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/43dbb3bb6afb4808c47782a21f39709e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2e9a53a3287eb00e7bac517fc174cda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2e9a53a3287eb00e7bac517fc174cda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3d971145b13fb72ed0c48991197fa759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3d971145b13fb72ed0c48991197fa759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7121cf8fec213394a95af9a8e1883e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7121cf8fec213394a95af9a8e1883e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/628d4b83ac48c35db8d6f54c45bf453b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/628d4b83ac48c35db8d6f54c45bf453b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c60d8e8841e2477139aac2f5ea7d9d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c60d8e8841e2477139aac2f5ea7d9d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff9bd78e51cc455e7975a8700c9e0cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff9bd78e51cc455e7975a8700c9e0cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a9bf8c1479a87b17240712b66cb89ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a9bf8c1479a87b17240712b66cb89ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/505805ad03cdf4b37a8d9503dd6b65d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/505805ad03cdf4b37a8d9503dd6b65d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7902f1965689622a1c8edd0f1c259ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b7902f1965689622a1c8edd0f1c259ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1cbf6ffc3993c012dda964981fca4c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1cbf6ffc3993c012dda964981fca4c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/13ee18de07220904d2d8480f2635165e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/13ee18de07220904d2d8480f2635165e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e300cbcbf9fcf507b00b1d5e16c17ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e300cbcbf9fcf507b00b1d5e16c17ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d11d74c0b58cd8a14fa2f41a14f0cb2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d11d74c0b58cd8a14fa2f41a14f0cb2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ee9476276fb80a2a9c24d1e6955802b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ee9476276fb80a2a9c24d1e6955802b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6f5b2e00748c4d2e68ac4b331811134a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6f5b2e00748c4d2e68ac4b331811134a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e4b5f24e1a23fa62020b6603dded8216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e4b5f24e1a23fa62020b6603dded8216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f9eff11bade8fde19649b68006e57536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3462d24e27d730dbf3e528b19831bc70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3462d24e27d730dbf3e528b19831bc70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cbda81f1eabd07563f83bb37dbb0515f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/cbda81f1eabd07563f83bb37dbb0515f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e48b2e1640ca97405bfa9d178c47c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7e48b2e1640ca97405bfa9d178c47c6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/152d5624e81e578eea3912e32ee82968/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/152d5624e81e578eea3912e32ee82968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/226e233b94e82e890030f609f8a248f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/226e233b94e82e890030f609f8a248f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b86d2bd4e5465a1f5427276a0c18bb92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b86d2bd4e5465a1f5427276a0c18bb92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cce4df69b4cd4430e39ecbf97d4dcc72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cce4df69b4cd4430e39ecbf97d4dcc72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4067dea60aa6ca1d61c1b75175b9f609/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4067dea60aa6ca1d61c1b75175b9f609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea987b0edff69251a986ed3b79d2b422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea987b0edff69251a986ed3b79d2b422/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cac691034aff32edb248dfe490db9118/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cac691034aff32edb248dfe490db9118/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7476d5a653aa54e3151c4a61ee8311e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7476d5a653aa54e3151c4a61ee8311e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d5174675ae7813342bc9f1562b67812a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/xingweizhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d5174675ae7813342bc9f1562b67812a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xingweizhu/WorkSpace/Temp/UIWidgetsPlugin/app/src/main/AndroidManifest.xml
